@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Future Station | Home</title>
+    <link href="web.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div class="topnav">
+        <a class="active" href="#home">Home</a>
+        <a href="aboutus.html">About us</a>
+        <a href="careers.html">Careers</a>
+        <a href="mentors.html">Mentors</a>
+        <a href="contact.html">Contact us</a>
+        <div class="searchbar">
+            <form action="/action_page.php">
+                <input type="text" placeholder=" Search">
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+
+        </div>
+                    <a href="profile.html"><img src="https://i.ibb.co/HVsTNxC/4781818-account-avatar-face-man-people-icon.png" alt="profileicon" class="profileicon"></a>
+    </div>
+    <div class="parent">
+        <img id="homepageimg" src="https://i.ibb.co/BcrtHJh/1.png" alt="homepageimg" class="bgimage" width=100%>
+        <a href="#home"><img src="https://i.ibb.co/D9x1t6x/white-FS-logo.png" alt="company logo" id="#logo"
+                class="logo"></a>
+
+        <div class="heading">Future Station</div>
+        <div class="intro">Every student deserves access to the proper guidance to succeed in their learning journey.
+            Our mission is to provide the resources and support necessary for learners of all levels to thrive. Join us
+            today and start your journey towards success!</div>
+    </div>
+    <br><br><br><br>
+    <div class="aboutsection">
+        <img src="https://i.ibb.co/rvTgr9X/image-removebg-preview.png" alt="aboutimg" class="aboutimg">
+        <div class="about">About Us</div>
+        <div class="aboutpara">Our website provides personalized advice and support to help learners make informed
+            decisions about their future. We offer one-on-one mentoring sessions, career assessments, job search
+            resources, and educational resources in a variety of fields. Our platform is designed to be user-friendly
+            and constantly updated to provide the most relevant information. We aim to connect learners with experienced
+            mentors and provide the support needed to achieve their career goals.
+            <br><br>
+            Whether you're a high school student, college graduate, or adult learner, we're here to help make your
+            journey towards your dream career easier. Choose our website as your partner in your learning journey today!
+        </div>
+        <br><br>
+    </div>
+    <br>
+    <br>
+    <br><br><br>
+    <br>
+    <div class="help">
+        <div class="howwehelp">How we will help you?</div>
+        <div class="stats">According to a survey conducted by the World Economic Forum in 2019, around 40% of young
+            people aged 15-29 worldwide are unsure about their career paths. In addition, a survey by LinkedIn in 2018
+            found that 39% of professionals globally feel uncertain or lost about their career paths.
+            <br>
+            It is essential to provide guidance and support to young people and professionals to help them make informed
+            decisions about their career paths.
+        </div>
+        <div class="helpingimgs">
+            <img src="https://i.ibb.co/ChGVMdJ/exploringimg.png" alt="exploringimg" class="exploringimg">
+            <img src="https://i.ibb.co/gzL5fBX/understandingimg.png" alt="understandingimg" class="understandingimg">
+            <img src="https://i.ibb.co/qdSLhTB/guidanceimg.png" alt="guidanceimg" class="guidanceimg">
+        </div>
+
+        <div class="helpheadings">
+            <div class="help1">Exploration</div>
+            <div class="help2">Understanding</div>
+            <div class="help3">Guidance</div>
+        </div>
+        <br>
+        <div class="help10">Exploring different career paths can open up a world of opportunities and help you discover
+            your true passions and strengths.</div>
+
+        <div class="help20">Career paths refer to the various routes or trajectories that individuals can take within a
+            particular profession or field of work, which can involve different levels of experience, education, skills,
+            and responsibilities over time.</div>
+
+        <div class="help30">When it comes to choosing a career path, it's important to consider your interests, skills,
+            values, and the current job market to find a fulfilling and sustainable career that aligns with your goals
+            and aspirations.</div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br><br><br><br>
+    <br>
+    <div class="test">
+        <div class="testheading">Testimonials</div>
+        <br>
+        <div class="testimonials">
+            <img src="bandmember.jpg" alt="Avatar" style="width:90px">
+            <p>Chris Fox</p>
+            <p>John Doe saved us from a web disaster.</p>
+        </div>
+
+        <div class="testimonials">
+            <img src="avatar_g2.jpg" alt="Avatar" style="width:90px">
+            <p>Rebecca Flex</p>
+            <p>No one is better than John Doe.</p>
+        </div>
+
+        <div class="testimonials">
+            <img src="avatar_g2.jpg" alt="Avatar" style="width:90px">
+            <p>Rebecca Flex</p>
+            <p>No one is better than John Doe.</p>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="footer-container">
+        <div class="footer">
+            <a href="landingpage.html"><img src="https://i.ibb.co/D9x1t6x/white-FS-logo.png" alt="company logo"
+                    id="#logo" class="footerlogo"></a>
+            <div class="footer-heading1">
+                <h2>Quick Links</h2>
+                <a href="landingpage.html">Home</a>
+                <a href="aboutus.html">About Us</a>
+                <a href="careers.html">Careers</a>
+                <a href="mentors.html">Mentors</a>
+                <a href="profile.html">Blogs</a>
+                <a href="contact.html">Contact Us</a>
+            </div>
+
+            <div class="footer-heading2">
+                <h2>Browse by Subject</h2>
+                <a href="#">Technology</a>
+                <a href="#">Academia</a>
+                <a href="#">Psychology</a>
+                <a href="#">Designing</a>
+                <a href="#">Law</a>
+                <a href="#">Commerce</a>
+            </div>
+
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+        <hr>
+                <pre><div class="footerinfo">Privacy Policy     Code of Conduct     Terms of Service     Help Center</div></pre>
+    </div>
+
+</body>
+
+</html>
