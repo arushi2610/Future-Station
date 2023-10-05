@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Future Station | About Us</title>
+    <link href="web.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="topnav">
+        <a href="landingpage.html">Home</a>
+        <a class="active" href="#aboutus">About us</a>
+        <a href="careers.html">Careers</a>
+        <a href="mentors.html">Mentors</a>
+        <a href="contact.html">Contact us</a>
+        <div class="searchbar">
+            <form action="/action_page.php">
+                <input type="text" placeholder=" Search">
+                <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+
+        </div>
+         <a href="profile.html"><img src="https://i.ibb.co/HVsTNxC/4781818-account-avatar-face-man-people-icon.png" alt="profileicon" class="profileicon"></a>
+    </div>
+    <div class="parent">
+        <a href="#home"><img src="https://i.ibb.co/3kSDbF0/black-FS-logo.png" alt="black-FS-logo" id="#logo" class="logo"></a>
+    </div>
+    <div class="aboutsection">
+        <img src="https://i.ibb.co/nkbjJ2x/aboutimg.png" alt="aboutimg" class="aboutimg">
+        <div class="about">About Us</div>
+       <div class="aboutpara">Welcome to Future Station!
+<br><br>
+We are a team of passionate educators who understand the importance of having the right resources and guidance when it comes to making career decisions. We believe that every individual has unique strengths and interests, and we strive to provide personalized advice and support to help learners make informed choices about their future.
+<br><br>
+Our mission is to create a platform that connects learners with experienced mentors who can share their knowledge and expertise in a variety of fields. Whether you're a high school student exploring different career paths, a college graduate looking to enter the workforce, or an adult learner seeking to enhance your skills and advance your career, our website has the resources and support you need to succeed.
+<br><br>
+We offer a range of services, including one-on-one mentoring sessions, career assessments, job search resources, and educational resources to help you build the skills you need to achieve your goals. Our team is committed to providing personalized attention to each of our learners, and we work tirelessly to ensure that you have the support you need to succeed.
+<br><br>
+We understand that the journey towards your dream career can be challenging, but we're here to help make it easier. Our website is designed to be user-friendly and accessible, making it easy to navigate and find the resources you need. We're constantly updating our content and services to ensure that we provide the most up-to-date and relevant information to our learners.
+<br><br>
+Thank you for choosing our career counseling website as your partner in your learning journey. We look forward to supporting you in achieving your career goals!</div>
+<br><br><br><br>
+        </div>
+    </div>
+
+    <div class="footer-container">
+        <div class="footer">
+            <a href="landingpage.html"><img src="https://i.ibb.co/D9x1t6x/white-FS-logo.png" alt="company logo"
+                    id="#logo" class="footerlogo"></a>
+            <div class="footer-heading1">
+                <h2>Quick Links</h2>
+                <a href="landingpage.html">Home</a>
+                <a href="aboutus.html">About Us</a>
+                <a href="careers.html">Careers</a>
+                <a href="mentors.html">Mentors</a>
+                <a href="profile.html">Blogs</a>
+                <a href="contact.html">Contact Us</a>
+            </div>
+
+            <div class="footer-heading2">
+                <h2>Browse by Subject</h2>
+                <a href="#">Technology</a>
+                <a href="#">Academia</a>
+                <a href="#">Psychology</a>
+                <a href="#">Designing</a>
+                <a href="#">Law</a>
+                <a href="#">Commerce</a>
+            </div>
+
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+        <hr>
+                <pre><div class="footerinfo">Privacy Policy     Code of Conduct     Terms of Service     Help Center</div></pre>
+    </div>
+</body>
+
+</html>
